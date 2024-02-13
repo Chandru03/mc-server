@@ -93,8 +93,11 @@
       "apple": "2024-01-21 21:17:54 +0530",
       "bread": "2024-01-21 19:59:32 +0530",
       "cooked_mutton": "2024-01-22 23:08:20 +0530",
+      "potato": "2024-02-13 10:10:17 +0530",
       "cooked_cod": "2024-01-27 23:12:57 +0530",
       "cooked_beef": "2024-01-22 21:05:25 +0530",
+      "cod": "2024-02-13 09:35:10 +0530",
+      "melon_slice": "2024-02-13 09:29:29 +0530",
       "cooked_salmon": "2024-01-27 20:28:07 +0530",
       "carrot": "2024-01-22 22:39:04 +0530"
     },
@@ -466,6 +469,7 @@
       "minecraft:skeleton": "2024-01-21 20:17:02 +0530",
       "minecraft:phantom": "2024-01-27 20:21:16 +0530",
       "minecraft:enderman": "2024-01-22 22:37:15 +0530",
+      "minecraft:magma_cube": "2024-02-13 10:11:11 +0530",
       "minecraft:spider": "2024-01-21 20:32:02 +0530",
       "minecraft:zombie": "2024-01-21 20:12:39 +0530",
       "minecraft:zombie_villager": "2024-01-21 21:15:05 +0530"
@@ -1356,6 +1360,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2024-02-13 10:04:19 +0530",
+      "minecraft:soul_sand_valley": "2024-02-13 10:05:08 +0530",
       "minecraft:basalt_deltas": "2024-01-22 23:36:27 +0530"
     },
     "done": false
@@ -1855,6 +1861,72 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-01-27 23:37:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-02-13 09:29:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-02-13 10:03:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-02-13 09:29:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-02-13 10:09:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-02-13 10:05:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-02-13 10:09:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-02-13 10:09:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-02-13 09:29:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-02-13 10:14:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-02-13 10:03:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-02-13 10:03:35 +0530"
     },
     "done": true
   },

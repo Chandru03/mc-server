@@ -534,7 +534,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:white": "2024-01-18 22:19:20 +0530"
+      "minecraft:white": "2024-01-18 22:19:20 +0530",
+      "minecraft:tabby": "2024-02-13 10:01:37 +0530"
     },
     "done": false
   },
@@ -2185,6 +2186,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2024-02-13 10:13:40 +0530",
       "minecraft:basalt_deltas": "2024-01-22 22:43:29 +0530"
     },
     "done": false
@@ -2360,6 +2362,24 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-01-27 21:02:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-02-13 09:30:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-02-13 09:30:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-02-13 10:13:26 +0530"
     },
     "done": true
   },
