@@ -10,12 +10,17 @@
       "minecraft:beach": "2024-01-18 21:27:16 +0530",
       "minecraft:forest": "2024-01-18 21:44:14 +0530",
       "minecraft:sparse_jungle": "2024-01-18 21:28:44 +0530",
-      "minecraft:jungle": "2024-01-18 21:47:03 +0530",
+      "minecraft:deep_ocean": "2024-02-17 13:47:03 +0530",
       "minecraft:river": "2024-01-18 21:44:10 +0530",
       "minecraft:lukewarm_ocean": "2024-01-19 17:24:22 +0530",
+      "minecraft:desert": "2024-02-17 13:39:38 +0530",
+      "minecraft:jungle": "2024-01-18 21:47:03 +0530",
+      "minecraft:ocean": "2024-02-17 13:47:27 +0530",
       "minecraft:birch_forest": "2024-01-18 22:04:08 +0530",
       "minecraft:savanna": "2024-01-19 21:41:07 +0530",
-      "minecraft:plains": "2024-01-18 21:27:19 +0530"
+      "minecraft:plains": "2024-01-18 21:27:19 +0530",
+      "minecraft:warm_ocean": "2024-02-17 13:39:21 +0530",
+      "minecraft:deep_lukewarm_ocean": "2024-02-17 13:44:32 +0530"
     },
     "done": false
   },
@@ -80,6 +85,7 @@
       "bread": "2024-01-19 22:44:37 +0530",
       "cooked_mutton": "2024-01-18 21:37:10 +0530",
       "cooked_cod": "2024-01-18 23:06:16 +0530",
+      "cod": "2024-02-17 12:56:45 +0530",
       "baked_potato": "2024-01-18 23:58:01 +0530",
       "melon_slice": "2024-01-27 21:05:27 +0530",
       "porkchop": "2024-01-27 20:28:07 +0530",
@@ -2380,6 +2386,30 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-02-13 10:13:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-02-17 13:54:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-02-17 13:54:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-02-17 13:54:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-02-17 13:11:16 +0530"
     },
     "done": true
   },
