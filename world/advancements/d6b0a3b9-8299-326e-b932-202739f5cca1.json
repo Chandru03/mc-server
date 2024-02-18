@@ -80,15 +80,17 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2024-01-19 22:35:35 +0530",
-      "spider_eye": "2024-01-27 20:27:30 +0530",
       "bread": "2024-01-19 22:44:37 +0530",
       "cooked_mutton": "2024-01-18 21:37:10 +0530",
-      "cooked_cod": "2024-01-18 23:06:16 +0530",
-      "cod": "2024-02-17 12:56:45 +0530",
+      "cooked_beef": "2024-02-18 22:03:51 +0530",
       "baked_potato": "2024-01-18 23:58:01 +0530",
+      "beef": "2024-02-18 22:03:42 +0530",
       "melon_slice": "2024-01-27 21:05:27 +0530",
       "porkchop": "2024-01-27 20:28:07 +0530",
+      "apple": "2024-01-19 22:35:35 +0530",
+      "spider_eye": "2024-01-27 20:27:30 +0530",
+      "cooked_cod": "2024-01-18 23:06:16 +0530",
+      "cod": "2024-02-17 12:56:45 +0530",
       "cooked_salmon": "2024-01-27 20:28:39 +0530",
       "carrot": "2024-01-22 22:24:22 +0530"
     },
@@ -2389,6 +2391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-02-17 13:11:16 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-02-17 13:54:42 +0530"
@@ -2407,9 +2415,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "has_nautilus_shell": "2024-02-17 13:11:16 +0530"
+      "has_chicken": "2024-02-18 22:04:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-02-18 22:04:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-02-18 22:04:47 +0530"
     },
     "done": true
   },
