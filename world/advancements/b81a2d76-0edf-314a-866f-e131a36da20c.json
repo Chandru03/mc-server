@@ -550,6 +550,7 @@
       "minecraft:zombie": "2024-01-18 21:40:38 +0530",
       "minecraft:creeper": "2024-01-18 22:40:20 +0530",
       "minecraft:drowned": "2024-01-19 21:24:27 +0530",
+      "minecraft:zombie_villager": "2024-03-03 16:47:35 +0530",
       "minecraft:slime": "2024-02-18 20:24:51 +0530"
     },
     "done": false
@@ -2104,6 +2105,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-03-03 19:44:23 +0530",
       "minecraft:soul_sand_valley": "2024-01-21 14:01:32 +0530",
       "minecraft:nether_wastes": "2024-02-13 10:16:57 +0530",
       "minecraft:basalt_deltas": "2024-01-20 21:25:04 +0530"
@@ -3352,7 +3354,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-03-02 19:34:31 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-03-02 19:35:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2024-03-02 19:35:14 +0530"
     },
@@ -3364,21 +3378,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2024-03-02 19:45:30 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-03-02 19:41:59 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
-    "criteria": {
-      "has_deepslate_lapis_ore": "2024-03-02 19:34:31 +0530"
     },
     "done": true
   },
@@ -3388,9 +3390,117 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+  "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "has_deepslate_diamond_ore": "2024-03-02 19:35:14 +0530"
+      "has_diamond_block": "2024-03-02 19:45:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-03-03 13:44:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-03-03 13:44:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2024-03-03 14:48:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-03-03 15:46:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-03-03 18:09:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-03-03 18:09:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-03-03 18:09:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-03-03 18:09:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-03-03 18:09:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2024-03-03 18:09:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-03-03 18:09:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-03-03 18:09:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-03-03 18:09:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-03-03 18:41:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2024-03-03 18:41:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-03-03 18:44:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-03-03 18:44:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-03-03 19:25:27 +0530"
     },
     "done": true
   },
