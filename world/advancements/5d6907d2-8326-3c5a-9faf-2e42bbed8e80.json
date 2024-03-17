@@ -471,13 +471,14 @@
       "minecraft:skeleton": "2024-01-21 20:17:02 +0530",
       "minecraft:phantom": "2024-01-27 20:21:16 +0530",
       "minecraft:zombified_piglin": "2024-02-20 21:35:15 +0530",
+      "minecraft:wither_skeleton": "2024-02-17 15:01:34 +0530",
+      "minecraft:ghast": "2024-02-20 21:46:33 +0530",
       "minecraft:enderman": "2024-01-22 22:37:15 +0530",
       "minecraft:magma_cube": "2024-02-13 10:11:11 +0530",
       "minecraft:spider": "2024-01-21 20:32:02 +0530",
-      "minecraft:wither_skeleton": "2024-02-17 15:01:34 +0530",
       "minecraft:zombie": "2024-01-21 20:12:39 +0530",
-      "minecraft:zombie_villager": "2024-01-21 21:15:05 +0530",
-      "minecraft:ghast": "2024-02-20 21:46:33 +0530"
+      "minecraft:drowned": "2024-03-18 00:10:39 +0530",
+      "minecraft:zombie_villager": "2024-01-21 21:15:05 +0530"
     },
     "done": false
   },
@@ -2658,6 +2659,30 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2024-03-13 19:42:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-03-18 00:07:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-03-18 00:35:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-03-18 00:35:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-03-18 00:37:38 +0530"
     },
     "done": true
   },
