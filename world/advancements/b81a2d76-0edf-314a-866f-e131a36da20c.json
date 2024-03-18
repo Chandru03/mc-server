@@ -16,7 +16,8 @@
       "minecraft:river": "2024-01-18 21:56:19 +0530",
       "minecraft:lukewarm_ocean": "2024-01-19 21:49:28 +0530",
       "minecraft:birch_forest": "2024-02-20 20:57:08 +0530",
-      "minecraft:plains": "2024-01-18 21:27:06 +0530"
+      "minecraft:plains": "2024-01-18 21:27:06 +0530",
+      "minecraft:warm_ocean": "2024-03-18 17:09:10 +0530"
     },
     "done": false
   },
@@ -499,6 +500,7 @@
       "cooked_porkchop": "2024-01-18 21:33:13 +0530",
       "bread": "2024-01-18 22:39:23 +0530",
       "cooked_chicken": "2024-03-13 22:06:29 +0530",
+      "suspicious_stew": "2024-03-18 19:51:38 +0530",
       "potato": "2024-02-17 13:39:15 +0530",
       "cooked_cod": "2024-01-22 22:28:13 +0530",
       "cooked_beef": "2024-01-20 21:04:48 +0530",
@@ -549,12 +551,14 @@
       "minecraft:witch": "2024-01-18 23:28:38 +0530",
       "minecraft:wither_skeleton": "2024-02-17 13:18:57 +0530",
       "minecraft:ravager": "2024-03-17 18:55:46 +0530",
+      "minecraft:ghast": "2024-03-18 12:37:36 +0530",
       "minecraft:hoglin": "2024-03-17 17:33:31 +0530",
       "minecraft:piglin": "2024-03-17 19:18:53 +0530",
       "minecraft:vindicator": "2024-03-17 18:53:31 +0530",
       "minecraft:enderman": "2024-01-19 23:00:17 +0530",
       "minecraft:magma_cube": "2024-01-20 21:34:20 +0530",
       "minecraft:spider": "2024-01-18 23:06:05 +0530",
+      "minecraft:piglin_brute": "2024-03-18 11:36:11 +0530",
       "minecraft:zombie": "2024-01-18 21:40:38 +0530",
       "minecraft:creeper": "2024-01-18 22:40:20 +0530",
       "minecraft:drowned": "2024-01-19 21:24:27 +0530",
@@ -3804,6 +3808,174 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2024-03-17 22:50:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-03-18 13:02:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-03-18 16:52:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-03-18 17:07:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-03-18 17:07:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-03-18 17:07:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-03-18 17:09:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-03-18 17:32:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-03-18 19:38:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-03-18 19:38:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-03-18 19:53:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-03-18 19:53:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-03-18 19:53:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-03-18 19:53:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-03-18 19:53:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-03-18 19:53:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2024-03-18 19:53:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-03-18 19:53:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-03-18 19:53:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-03-18 19:53:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2024-03-18 19:53:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-03-18 19:53:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-03-18 19:53:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-03-18 19:53:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2024-03-18 19:54:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2024-03-18 19:54:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2024-03-18 19:54:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-03-18 21:51:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-03-18 21:53:28 +0530"
     },
     "done": true
   },
