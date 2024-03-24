@@ -1,29 +1,76 @@
-[00:13:09] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=436, y=81, z=-127} hx{x=437, y=80, z=-127}
-[00:13:09] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=436, y=81, z=-127} hx{x=437, y=80, z=-127}
-[00:13:09] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=436, y=81, z=-127} hx{x=437, y=80, z=-127}
-[00:13:09] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=436, y=81, z=-127} hx{x=437, y=80, z=-127}
-[00:13:09] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=436, y=81, z=-127} hx{x=437, y=80, z=-127}
-[00:13:10] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=436, y=81, z=-127} hx{x=437, y=81, z=-126}
-[00:13:10] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=436, y=81, z=-127} hx{x=437, y=81, z=-126}
-[00:15:14] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=436, y=87, z=-121} hx{x=438, y=85, z=-121}
-[00:15:14] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=436, y=87, z=-121} hx{x=438, y=85, z=-121}
-[00:15:14] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=436, y=87, z=-121} hx{x=438, y=85, z=-121}
-[00:15:14] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=436, y=87, z=-121} hx{x=438, y=85, z=-121}
-[00:15:14] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=436, y=87, z=-121} hx{x=438, y=85, z=-121}
-[00:15:14] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=436, y=87, z=-121} hx{x=438, y=85, z=-121}
-[00:19:54] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=439, y=86, z=-116} hx{x=438, y=86, z=-115}
-[00:47:26] [Server thread/INFO]: TippedGuitar688 lost connection: Disconnected
-[00:47:26] [Server thread/INFO]: TippedGuitar688 left the game
-[00:47:34] [Server thread/INFO]: Saving the game (this may take a moment!)
-[00:47:34] [Server thread/INFO]: Saved the game
-[00:47:37] [Server thread/INFO]: Stopping the server
-[00:47:37] [Server thread/INFO]: Stopping server
-[00:47:37] [Server thread/INFO]: Saving players
-[00:47:37] [Server thread/INFO]: Saving worlds
-[00:47:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:47:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:47:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:55:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:55:37] [ServerMain/INFO]: Loaded 7 recipes
+[21:55:38] [ServerMain/INFO]: Loaded 1271 advancements
+[21:55:40] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[21:55:40] [Server thread/INFO]: Loading properties
+[21:55:40] [Server thread/INFO]: Default game type: SURVIVAL
+[21:55:40] [Server thread/INFO]: Generating keypair
+[21:55:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:55:41] [Server thread/INFO]: Using default channel type
+[21:55:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:55:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:55:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:55:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:55:41] [Server thread/INFO]: Preparing level "world"
+[21:55:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:55:47] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:55:47] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:55:47] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[21:55:47] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:55:47] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[21:55:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:55:48] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:55:48] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:55:49] [Worker-Main-5/INFO]: Preparing spawn area: 9%
+[21:55:49] [Worker-Main-3/INFO]: Preparing spawn area: 93%
+[21:55:49] [Server thread/INFO]: Time elapsed: 4526 ms
+[21:55:49] [Server thread/INFO]: Done (7.803s)! For help, type "help"
+[21:55:49] [Server thread/INFO]: nirmal_sr (/127.0.0.1:50893) lost connection: Disconnected
+[21:56:19] [Server thread/INFO]: TippedGuitar688[/127.0.0.1:50926] logged in with entity id 33 at (-858.6999999880791, 121.0, -1882.300000011921)
+[21:56:19] [Server thread/INFO]: TippedGuitar688 joined the game
+[21:56:23] [Server thread/INFO]: tippedguitar[/127.205.204.74:50929] logged in with entity id 125 at (590.5115992000306, 64.14542616251119, -126.27639180542361)
+[21:56:23] [Server thread/INFO]: tippedguitar joined the game
+[21:56:25] [Server thread/INFO]: nirmal_sr[/127.79.114.14:50933] logged in with entity id 232 at (484.7865562084461, 71.0, -162.85625281968404)
+[21:56:25] [Server thread/INFO]: nirmal_sr joined the game
+[21:56:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2266ms or 45 ticks behind
+[22:22:49] [Server thread/INFO]: [Not Secure] <tippedguitar> nirmal follow me
+[22:34:22] [Server thread/INFO]: [Not Secure] <tippedguitar> add more powered rails in the incline da
+[22:34:45] [Server thread/INFO]: [Not Secure] <tippedguitar> add lever here
+[22:36:15] [Server thread/INFO]: [Not Secure] <tippedguitar> ngommala deiii
+[22:37:13] [Server thread/INFO]: [Not Secure] <tippedguitar> dei give my rail da
+[22:37:24] [Server thread/INFO]: [Not Secure] <nirmal_sr> oombu
+[22:37:31] [Server thread/INFO]: [Not Secure] <tippedguitar> dei vera illa da
+[22:37:53] [Server thread/INFO]: [Not Secure] <nirmal_sr> enna da venum
+[22:38:01] [Server thread/INFO]: [Not Secure] <tippedguitar> rail
+[22:38:09] [Server thread/INFO]: [Not Secure] <tippedguitar> i mean cart da
+[22:38:17] [Server thread/INFO]: [Not Secure] <tippedguitar> cart venum
+[22:39:40] [Server thread/INFO]: [Not Secure] <nirmal_sr> dei potta payala
+[22:39:48] [Server thread/INFO]: [Not Secure] <nirmal_sr> yeanda nadula vara
+[22:40:09] [Server thread/INFO]: [Not Secure] <nirmal_sr> sootha mooditu poi antha rod vekara velai ya mattum paaru
+[22:40:35] [Server thread/INFO]: [Not Secure] <nirmal_sr> minecart aa kudra
+[22:53:59] [Server thread/INFO]: [Not Secure] <tippedguitar> =sirry fa
+[22:54:01] [Server thread/INFO]: [Not Secure] <tippedguitar> sorry d
+[22:54:06] [Server thread/INFO]: [Not Secure] <tippedguitar> sorry daaaa
+[22:54:19] [Server thread/INFO]: [Not Secure] <TippedGuitar688> antha bayam irukanaum snipe a da panra
+[22:55:06] [Server thread/INFO]: tippedguitar lost connection: Disconnected
+[22:55:06] [Server thread/INFO]: tippedguitar left the game
+[22:58:35] [Server thread/INFO]: nirmal_sr has reached the goal [Sky's the Limit]
+[23:03:35] [Server thread/INFO]: nirmal_sr lost connection: Disconnected
+[23:03:35] [Server thread/INFO]: nirmal_sr left the game
+[23:08:13] [Server thread/INFO]: Saving the game (this may take a moment!)
+[23:08:13] [Server thread/INFO]: Saved the game
+[23:08:17] [Server thread/INFO]: TippedGuitar688 lost connection: Disconnected
+[23:08:17] [Server thread/INFO]: TippedGuitar688 left the game
+[23:08:27] [Server thread/INFO]: Saving the game (this may take a moment!)
+[23:08:27] [Server thread/INFO]: Saved the game
+[23:08:33] [Server thread/INFO]: Stopping the server
+[23:08:33] [Server thread/INFO]: Stopping server
+[23:08:33] [Server thread/INFO]: Saving players
+[23:08:33] [Server thread/INFO]: Saving worlds
+[23:08:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:08:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:08:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:08:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:08:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:08:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:08:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
