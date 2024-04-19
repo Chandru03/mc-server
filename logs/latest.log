@@ -1,64 +1,15 @@
-[15:17:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:17:21] [ServerMain/INFO]: Loaded 7 recipes
-[15:17:22] [ServerMain/INFO]: Loaded 1271 advancements
-[15:17:23] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[15:17:23] [Server thread/INFO]: Loading properties
-[15:17:23] [Server thread/INFO]: Default game type: SURVIVAL
-[15:17:23] [Server thread/INFO]: Generating keypair
-[15:17:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:17:23] [Server thread/INFO]: Using default channel type
-[15:17:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:17:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:17:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:17:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:17:23] [Server thread/INFO]: Preparing level "world"
-[15:17:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:17:27] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[15:17:27] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[15:17:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:17:27] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:17:27] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[15:17:27] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[15:17:27] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[15:17:28] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[15:17:28] [Worker-Main-9/INFO]: Preparing spawn area: 48%
-[15:17:29] [Server thread/INFO]: Time elapsed: 4270 ms
-[15:17:29] [Server thread/INFO]: Done (5.316s)! For help, type "help"
-[15:18:36] [Server thread/INFO]: TippedGuitar688[/127.0.0.1:63277] logged in with entity id 33 at (577.3310987232327, 63.0, -125.26548996645555)
-[15:18:36] [Server thread/INFO]: TippedGuitar688 joined the game
-[16:40:23] [Server thread/INFO]: [Not Secure] <TippedGuitar688> e
-[16:59:50] [Server thread/INFO]: TippedGuitar688 lost connection: Disconnected
-[16:59:50] [Server thread/INFO]: TippedGuitar688 left the game
-[17:02:42] [Server thread/INFO]: TippedGuitar688[/127.0.0.1:64396] logged in with entity id 24004 at (-123.28045375025295, 140.0, 2418.8525440018725)
-[17:02:42] [Server thread/INFO]: TippedGuitar688 joined the game
-[17:33:12] [Server thread/INFO]: TippedGuitar688 lost connection: Disconnected
-[17:33:12] [Server thread/INFO]: TippedGuitar688 left the game
-[17:33:40] [Server thread/INFO]: TippedGuitar688[/127.0.0.1:64555] logged in with entity id 32941 at (509.7748741587673, 61.0, -186.13672507709478)
-[17:33:40] [Server thread/INFO]: TippedGuitar688 joined the game
-[18:18:03] [Server thread/INFO]: Villager cev['Villager'/41694, l='ServerLevel[world]', x=323.79, y=71.00, z=-170.09] was struck by lightning bmk['Lightning Bolt'/42002, l='ServerLevel[world]', x=324.50, y=71.00, z=-169.50].
-[18:18:03] [Server thread/INFO]: Villager cev['Villager'/41709, l='ServerLevel[world]', x=324.25, y=71.00, z=-169.38] was struck by lightning bmk['Lightning Bolt'/42002, l='ServerLevel[world]', x=324.50, y=71.00, z=-169.50].
-[18:58:34] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=552, y=75, z=-325} hx{x=551, y=76, z=-325}
-[19:21:09] [Server thread/INFO]: TippedGuitar688 has made the advancement [Bee Our Guest]
-[20:19:42] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=500, y=68, z=-210} hx{x=507, y=68, z=-208}
-[20:34:14] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=429, y=94, z=-124} hx{x=428, y=93, z=-124}
-[20:34:14] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=429, y=94, z=-124} hx{x=428, y=93, z=-124}
-[20:34:14] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=429, y=94, z=-124} hx{x=428, y=93, z=-124}
-[20:34:47] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=432, y=91, z=-123} hx{x=432, y=92, z=-124}
-[20:34:56] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=432, y=87, z=-112} hx{x=432, y=87, z=-110}
-[20:35:21] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=432, y=87, z=-120} hx{x=432, y=86, z=-121}
-[20:35:21] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=432, y=87, z=-120} hx{x=432, y=86, z=-121}
-[20:39:25] [Server thread/INFO]: TippedGuitar688 lost connection: Disconnected
-[20:39:25] [Server thread/INFO]: TippedGuitar688 left the game
-[20:39:39] [Server thread/INFO]: Saving the game (this may take a moment!)
-[20:39:39] [Server thread/INFO]: Saved the game
-[20:39:41] [Server thread/INFO]: Stopping the server
-[20:39:41] [Server thread/INFO]: Stopping server
-[20:39:41] [Server thread/INFO]: Saving players
-[20:39:41] [Server thread/INFO]: Saving worlds
-[20:39:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:39:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:39:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:39:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:39:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:39:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:39:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:15:05] [Server thread/INFO]: TippedGuitar688 lost connection: Disconnected
+[00:15:05] [Server thread/INFO]: TippedGuitar688 left the game
+[00:15:13] [Server thread/INFO]: Saving the game (this may take a moment!)
+[00:15:13] [Server thread/INFO]: Saved the game
+[00:15:29] [Server thread/INFO]: Stopping the server
+[00:15:29] [Server thread/INFO]: Stopping server
+[00:15:29] [Server thread/INFO]: Saving players
+[00:15:29] [Server thread/INFO]: Saving worlds
+[00:15:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:15:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:15:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:15:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:15:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:15:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:15:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

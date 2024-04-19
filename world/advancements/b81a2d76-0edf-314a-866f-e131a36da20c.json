@@ -1834,7 +1834,8 @@
     "criteria": {
       "minecraft:cow": "2024-01-19 21:38:32 +0530",
       "minecraft:turtle": "2024-03-24 15:11:02 +0530",
-      "minecraft:sheep": "2024-03-13 21:43:30 +0530"
+      "minecraft:sheep": "2024-03-13 21:43:30 +0530",
+      "minecraft:bee": "2024-04-19 18:29:54 +0530"
     },
     "done": false
   },
@@ -4663,13 +4664,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+  "minecraft:recipes/decorations/beehive": {
     "criteria": {
-      "has_blue_orchid": "2024-03-30 19:30:09 +0530"
+      "has_honeycomb": "2024-03-30 18:40:30 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/beehive": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2024-03-30 18:40:30 +0530"
     },
@@ -4693,9 +4694,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
-      "has_honeycomb": "2024-03-30 18:40:30 +0530"
+      "has_blue_orchid": "2024-03-30 19:30:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-04-19 22:02:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-04-19 22:03:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-04-19 22:03:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2024-04-20 00:01:33 +0530"
     },
     "done": true
   },
